@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//sidciosc
 struct Node
 {
     int data;
@@ -13,7 +13,7 @@ void create(Node* &L)
 {
     L=NULL;
 }
-
+//hgsdgdgcd
 int height(Node* p)
 {
     if(p==NULL) return 0;
